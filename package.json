@@ -1,0 +1,24 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caiyijun/koa2.git"
+  },
+  "keywords": [],
+  "author": "caiyijun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caiyijun/koa2/issues"
+  },
+  "homepage": "https://github.com/Caiyijun/koa2#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "koa": "^2.5.1"
+  }
+}
