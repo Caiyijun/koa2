@@ -17,7 +17,9 @@
     "url": "https://github.com/Caiyijun/koa2/issues"
   },
   "homepage": "https://github.com/Caiyijun/koa2#readme",
-  "dependencies": {},
+  "dependencies": {
+    "koa-bodyparser": "^3.2.0"
+  },
   "devDependencies": {
     "koa": "^2.5.1"
   }
